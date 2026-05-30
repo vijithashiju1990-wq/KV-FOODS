@@ -1,0 +1,6 @@
+{
+  "name": "KV Foods",
+  "description": "Modern landing page and boutique catalog for premium dry fruits, organic beetroots, and organic health powders in Karuvachery, Nileshwar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
